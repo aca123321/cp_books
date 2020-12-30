@@ -1,1 +1,1 @@
-# cp_books
+# Books for competitive programming
